@@ -110,7 +110,7 @@ export function Footer() {
         </div>
 
         <div className="mt-8 border-t pt-8 text-center text-sm text-muted-foreground">
-          <p>&copy; 2025 ShopHub. Tous droits réservés.</p>
+          <p>&copy; 2025 TchadShop. Tous droits réservés.</p>
         </div>
       </div>
     </footer>

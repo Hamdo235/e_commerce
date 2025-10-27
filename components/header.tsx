@@ -28,7 +28,7 @@ export function Header() {
             <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-primary">
               <ShoppingCart className="h-5 w-5 text-primary-foreground" />
             </div>
-            <span className="text-xl font-bold text-foreground">ShopHub</span>
+            <span className="text-xl font-bold text-foreground">TchadShop</span>
           </Link>
 
           {/* Search Bar */}

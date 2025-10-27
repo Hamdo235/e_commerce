@@ -11,7 +11,7 @@ const _geist = Geist({ subsets: ["latin"] })
 const _geistMono = Geist_Mono({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "ShopHub - Votre marketplace en ligne",
+  title: "TchadShop - Votre marketplace en ligne",
   description: "Découvrez des milliers de produits aux meilleurs prix",
   generator: "v0.app",
 }
